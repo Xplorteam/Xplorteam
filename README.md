@@ -1,5 +1,24 @@
-<h1 align="center">Hi 👋, We are Xplor team</h1></div>
-<h3 align="center">IT Consulting team from Uzbekistan</h3>
+<h1 align="center">Xplor team 👨‍💻</h1></div>
+
+<p align="center">
+We are a passionate team of skilled developers dedicated to delivering high-quality IT solutions. With a strong foundation in software development, we have successfully crafted tailored digital solutions for businesses, helping them achieve their goals efficiently.  
+</p>  
+
+<h3>🚀 Our Expertise:</h3>  
+<ul>
+  <li>🌐 <strong>Website Development (Full Stack)</strong> – Custom-built, responsive, and scalable web applications.</li>  
+  <li>📱 <strong>Mobile Development</strong> – Native and cross-platform applications for iOS and Android.</li>  
+  <li>🤖 <strong>AI Solutions</strong> – AI-powered automation, chatbots, and intelligent applications.</li>  
+  <li>☁️ <strong>SaaS Development</strong> – Scalable, cloud-based software solutions for businesses.</li>  
+  <li>📊 <strong>Machine Learning</strong> – Predictive analytics, data processing, and AI-driven insights.</li>  
+</ul>  
+
+<p align="center">
+We are committed to building innovative, reliable, and scalable solutions tailored to your needs. Whether it’s a website, an AI-powered application, or a full-scale SaaS platform, we’re here to turn your vision into reality.  
+</p>  
+
+<h3 align="center">Let's build something amazing together! 🚀</h3>  
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xplorteam&label=Profile%20views&color=0e75b6&style=flat" alt="xplorteam" /> </p>
 
@@ -7,7 +26,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python Django, Aiogram, C# Xamarin Forms, Photoshop, Figma, WinForms, PostgreSQL, AI, Unreal Engine, Unity, Blender**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Xplorteam?tab=repositories](https://github.com/Xplorteam?tab=repositories)
 
