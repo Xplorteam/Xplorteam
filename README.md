@@ -27,24 +27,23 @@ We are committed to building innovative, reliable, and scalable solutions tailor
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Xplorteam?tab=repositories](https://github.com/Xplorteam?tab=repositories)
+- 👨‍💻 All of our tutorial projects are available at [Xplorteam](https://github.com/Xplorteam?tab=repositories)
 
-- 💬 Ask me about **Python Django, Aiogram, C# Xamarin Forms, Figma, WinForms**
+- 💬 Ask us about **Anything**
 
-- 📫 How to reach me **bozorovshahob27@gmail.com**
+- 📫 How to reach us **xplorteam.uz@gmail.com**
 
-- 📄 Know about my experiences www.linkedin.com/in/шахобиддин-бозоров-2827bb290
+- 📄 Know about our experiences: [LinkedIn](https://www.linkedin.com/company/xplorteam/)
 
-- ⚡ Fun fact **I think I'm boring :)**
+- ⚡ Fun fact **We can make anything you want :)**
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Us:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/shakhobiddin bozorov](https://www.linkedin.com/in/%D1%88%D0%B0%D1%85%D0%BE%D0%B1%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD-%D0%B1%D0%BE%D0%B7%D0%BE%D1%80%D0%BE%D0%B2-2827bb290/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakhobiddin bozorov" height="30" width="40" /></a>
-<a href="https://kaggle.com/shakhobiddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shakhobiddin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/xplorteam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakhobiddin bozorov" height="30" width="40" /></a>
 <a href="https://instagram.com/gobez_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gobez_yt" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gobez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gobez" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shakhob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shakhob" height="30" width="40" /></a>
